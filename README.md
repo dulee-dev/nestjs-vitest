@@ -2,8 +2,6 @@
 
 ## step
 
----
-
 1. write "vitest.config.e2e.ts", "vitest.config.ts"
 
 2. change "package.json" test scripts
@@ -11,8 +9,6 @@
 3. npm i vitest @vitest/ui @vitest/coverage-v8 --save-dev (version should be compatibility)
 
 4. npm i unplugin-swc --save-dev
-
----
 
 ## handle error
 
